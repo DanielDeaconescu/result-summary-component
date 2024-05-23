@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/DanielDeaconescu/result-summary-component
+- Live Site URL: https://danieldeaconescu.github.io/result-summary-component/
 
 
 
